@@ -1,0 +1,17 @@
+.header {
+    background: var(--color-gray-700);
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 2.5rem;
+    color:var(--color-purple-dark);
+    padding: 4.5rem 1rem 5rem;
+}
+
+.header img{
+    margin-right: 0.75rem;
+}
+
+.titleIntro{
+    color:var(--color-blue)
+}
